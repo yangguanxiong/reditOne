@@ -1,2 +1,1 @@
-# reditOne
-play with rekit 
+# README
